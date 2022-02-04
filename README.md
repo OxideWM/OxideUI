@@ -5,9 +5,7 @@
 </p>
 
 # ✨ OxideUI ✨
-A fancy gui library written in [zig](https://ziglang.org/)
+A fancy gui library written in C
 
 # 🔨 Building 🔨
-> 1, Install zig
-
-> 2, Run `zig build` or `zig build test` to build Oxide
+> 1, make -j
